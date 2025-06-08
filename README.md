@@ -22,5 +22,4 @@ This project presents a Power BI dashboard built using a dataset of over 3,000 m
 - **MS Excel** for data cleaning
 - **DAX & Power Query** for transformation
 
-## Dashboard Preview
-https://github.com/Saurabhjb07/Flipkart-Data-Visualization/blob/main/Flipkart%20Dashboard.png
+
